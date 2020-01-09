@@ -13,6 +13,7 @@ endif::[]
 
 * DUKE manager is a desktop application. It has a GUI (Graphical User Interface) to promote user-friendliness but the core functions work well using a CLI (Command Line Interface).
 * It is used as a digital academic handbook to address Engineering Undergraduates' issues such as time management issues by organizing multiple tasks and deadlines so that they can concentrate on their work without missing out any important events.
+* Please follow developer guide inside docs if you want to run this program in your local machine
 
 == Site Map
 
