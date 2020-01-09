@@ -1,0 +1,18 @@
+# IDEA files
+/.idea/
+/out/
+/*.iml
+
+# Gradle build files
+/.gradle/
+/build/
+src/main/resources/docs/
+
+# MacOS custom attributes files created from Finder
+.DS_Store
+*.iml
+bin/
+
+# Ignore all DUKE manager log files
+/dukeLogger.log
+/*.log.*

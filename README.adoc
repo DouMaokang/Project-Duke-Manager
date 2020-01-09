@@ -1,0 +1,30 @@
+= DUKE Manager
+ifdef::env-github,env-browser[:relfileprefix: docs/]
+
+image:https://api.codacy.com/project/badge/Grade/7e7d451093cc4dbc9cc8d99b8228bc61[link="https://www.codacy.com/manual/DukeManager/main?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AY1920S1-CS2113-T13-4/main&amp;utm_campaign=Badge_Grade"]
+
+ifdef::env-github[]
+image::docs/images/Ui.png[width="600"]
+endif::[]
+
+ifndef::env-github[]
+image::docs/images/Ui.png[width="600"]
+endif::[]
+
+* DUKE manager is a desktop application. It has a GUI (Graphical User Interface) to promote user-friendliness but the core functions work well using a CLI (Command Line Interface).
+* It is used as a digital academic handbook to address Engineering Undergraduates' issues such as time management issues by organizing multiple tasks and deadlines so that they can concentrate on their work without missing out any important events.
+
+== Site Map
+
+* https://github.com/AY1920S1-CS2113-T13-4/main/blob/master/docs/UserGuide.pdf[User Guide]
+* https://github.com/AY1920S1-CS2113-T13-4/main/blob/master/docs/DeveloperGuide.pdf[Developer Guide]
+* <<AboutUs#, About Us>>
+* <<ContactUs#, Contact Us>>
+
+== Acknowledgements
+
+* Some parts of this application were inspired by the excellent http://code.makery.ch/library/javafx-8-tutorial/[Java FX tutorial] by
+_Marco Jakob_.
+* Libraries used: https://openjfx.io/[JavaFX], https://github.com/junit-team/junit5[JUnit5]
+
+== Licence : link:LICENSE[MIT]
